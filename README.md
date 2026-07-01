@@ -17,7 +17,7 @@ Test your logic and intuition! Clear the minefield by revealing safe tiles while
 * **⚙️ Cross-Platform:** Engineered to support both Windows (via `system("cls")` and `Sleep`) and Unix-based systems (via `system("clear")` and `usleep`).
 * **🧩 Advanced Logic:** Implements recursive flood-fill algorithms to efficiently clear empty zones.
 
- ---
+---
 
 ## 🚀 How to Play
 1. **Reveal (r):** Enter row and column coordinates followed by `r` to uncover a tile.
