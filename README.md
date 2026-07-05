@@ -7,7 +7,7 @@ A modern, animated, and feature-rich terminal-based implementation of the classi
 ## 🎮 Overview
 Test your logic and intuition! Clear the minefield by revealing safe tiles while avoiding hidden mines. This project brings a classic game to life in your terminal with smooth animations, color-coded numbers, and a responsive, cross-platform interface.
 
- ---
+---
 
 ## ⚡ Key Features
 * **🎯 Multiple Difficulty Levels:** Choose between Beginner (9x9), Intermediate (16x16), and Advanced (24x24) grids.
