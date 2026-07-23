@@ -38,7 +38,7 @@ Test your logic and intuition! Clear the minefield by revealing safe tiles while
 g++ -o minesweeper main.cpp
 
 # Run the executable:
-
+ 
 Windows: minesweeper.exe
 Linux/macOS: ./minesweeper
 
