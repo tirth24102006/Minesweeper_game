@@ -29,7 +29,7 @@ Test your logic and intuition! Clear the minefield by revealing safe tiles while
 
 ## 🛠️ Getting Started
 ### Prerequisites
-* A C++ compiler (e.g., G++, Clang, or MSVC).
+* A C++ compiler.
 
 ### Compilation and Running
 
