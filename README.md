@@ -6,7 +6,7 @@ A modern, animated, and feature-rich terminal-based implementation of the classi
  
 ## 🎮 Overview
 Test your logic and intuition! Clear the minefield by revealing safe tiles while avoiding hidden mines. This project brings a classic game to life in your terminal with smooth animations, color-coded numbers, and a responsive, cross-platform interface.
-
+ 
 ---
 
 ## ⚡ Key Features
