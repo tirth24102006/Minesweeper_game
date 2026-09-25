@@ -3,7 +3,7 @@ Minesweeper is an animated, terminal-based C++ game that brings the classic puzz
 # 💣 Terminal Minesweeper
 
 A modern, animated, and feature-rich terminal-based implementation of the classic Minesweeper puzzle game, developed in C++.
- 
+  
 ## 🎮 Overview 
 Test your logic and intuition! Clear the minefield by revealing safe tiles while avoiding hidden mines. This project brings a classic game to life in your terminal with smooth animations, color-coded numbers, and a responsive, cross-platform interface.
  
